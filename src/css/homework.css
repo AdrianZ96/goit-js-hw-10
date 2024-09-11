@@ -1,0 +1,27 @@
+@import 'flatpickr/dist/flatpickr.min.css';
+
+.timer{
+    margin-top: 10px;
+        display: flex;
+        gap: 15px;
+}
+
+.field{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.value{
+    font-size: 40px;
+    text-align: center;
+    font-weight: 700;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 200px;
+}
+.delay{
+    width: 190px;
+}
